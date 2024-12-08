@@ -5,12 +5,12 @@ table, th, td {
     }
        
     th, td {
-       padding: .0em .0em; 
+       padding: 1em 1em; 
        text-align: center;
    }
        
    .left {
-    text-align: center; 
+    text-align: right; 
    }
         
     thead, tfoot ,tb {
@@ -23,7 +23,7 @@ table, th, td {
    }  
  
 body {
-    width: 80%;
+    width: 70%;
     text-align: center;
     margin: auto;
     border: thick outset black;
